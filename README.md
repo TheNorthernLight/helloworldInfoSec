@@ -1,7 +1,7 @@
 # helloworldInfoSec
-test hello world page 
+hello world with Bash
 
-    touch HelloWorld.sh
+    $ touch HelloWorld.sh
     $ vim HelloWorld.sh 
     
 write #!/bin/sh
